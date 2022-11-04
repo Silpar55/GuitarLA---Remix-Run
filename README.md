@@ -1,3 +1,13 @@
+# PROJECT GUITAR LA REMIX RUN #
+
+This is the GuitarLA project made it by remix, soon there will be created the same project with other technologies (Astro, Gatsby, Next.js)
+
+All those projects are going to use the same CSM-Headless (Strapi)
+
+Link to the project 
+
+https://guitar-la-remix-run.netlify.app/
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
